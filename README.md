@@ -10,7 +10,8 @@ Keine Installation von Zusatzsoftware auf dem NAS nötig — das Tool läuft als
 einzelnes Python-Skript (oder als vorgefertigte `.exe`) auf deinem eigenen
 Rechner und spricht beide APIs direkt an.
 
-!\[Setup-Seite](docs/screenshots/01-setup.png)
+<img width="1360" height="900" alt="01-setup" src="https://github.com/user-attachments/assets/dea7d2cc-9fac-4642-a12d-4c9c9a4cda9b" />
+
 
 \---
 
@@ -63,12 +64,14 @@ Windows-`.exe` — keine Installation auf dem NAS oder Immich-Server nötig.
 ## Screenshots
 
 |Setup|Optionen|
-|-|-|
-|!\[Setup](docs/screenshots/01-setup.png)|!\[Optionen](docs/screenshots/02-optionen.png)|
+<img width="1360" height="900" alt="02-optionen" src="https://github.com/user-attachments/assets/d8df45ab-2b20-4957-b4c3-e193e35751b8" />
+
 
 |Album-Auswahl|Migration|
-|-|-|
-|!\[Album-Auswahl](docs/screenshots/03-album-auswahl.png)|!\[Migration](docs/screenshots/04-migration.png)|
+<img width="1360" height="900" alt="03-album-auswahl" src="https://github.com/user-attachments/assets/aed84b39-e26d-49b4-b4d0-cd9a7c76004a" />
+<img width="1360" height="900" alt="04-migration" src="https://github.com/user-attachments/assets/f502f2f1-79e7-4f57-a734-097f317b234f" />
+
+
 
 *(Die Screenshots zeigen die Oberfläche mit Beispieldaten, nicht echte
 Zugangsdaten.)*
@@ -190,6 +193,14 @@ Freigabe-Links) — jeder Benutzer mit Zugriff „findet" das Album beim Scannen
 Album-ID, sodass es nur einmal migriert wird.
 
 </details>
+
+<details>
+<summary>User müssen auf Synology Administratoren Rechte haben</summary>
+
+Um die Fotos beim Upload wieder richtig zuzuordnen müssen die User in der Synology-Nas als Administrator freigegeben werden.
+
+</details>
+
 
 ## Windows-`.exe` selbst bauen
 
