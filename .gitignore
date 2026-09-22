@@ -1,0 +1,21 @@
+# Laufzeit-Daten — enthalten Zugangsdaten/Fortschritt, gehören nicht ins Repo
+migration_config.json
+migration_state.json
+*.log
+
+# Migrations-Reports (werden lokal generiert)
+report_*.json
+report_*.txt
+
+# PyInstaller / Build-Artefakte
+build/
+dist/
+*.spec
+__pycache__/
+*.pyc
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
