@@ -231,6 +231,12 @@ Issues und Pull Requests sind willkommen. Bitte beim Melden eines Bugs die
 Ausgabe aus der Live-Aktivität-Box (bzw. den exportierten Report) beilegen —
 das beschleunigt die Fehlersuche erheblich.
 
+if you want to support me:
+
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/42266785-46b3-4c78-a4a1-cb92e7942801" />
+
+https://buymeacoffee.com/florianwuel
+
 ## Lizenz
 
 [MIT](LICENSE)
